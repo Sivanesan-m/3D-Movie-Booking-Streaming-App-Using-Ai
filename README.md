@@ -24,7 +24,7 @@ By combining **3D UI/UX**, **AI-driven personalization**, and **smart content di
 
 Users don’t just scroll — they **explore movies in an interactive 3D environment**, receive **AI-curated recommendations**, and enjoy a future-ready viewing experience.
 
-🔗 **Live Prototype / Landing Page:**  
+🔗  Landing Page:  
 👉 https://u2m28byo6b.ailandingpage.ai
 
 ---
@@ -109,8 +109,9 @@ Feel free to:
 
 ## 📬 Connect With Me
 
-💼 **LinkedIn:** *[Add your LinkedIn URL]*  
-🌐 **Portfolio / Landing Page:** https://u2m28byo6b.ailandingpage.ai  
+💼 **LinkedIn:  https://www.linkedin.com/in/m-sivanesan-66415b24a/  
+🌐 *Landing Page:** https://u2m28byo6b.ailandingpage.ai  
+🌐  Live Prototype  : https://sivanesan-3d-visions.lovable.app
 
 Let’s build the future of entertainment together! 🚀✨
 
